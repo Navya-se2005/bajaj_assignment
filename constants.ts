@@ -1,1 +1,1 @@
-export const OFFICIAL_EMAIL = "student@chitkara.edu.in"; // Replace with your actual email if needed for testing
+export const OFFICIAL_EMAIL = "navya1343.be23@chitkarauniversity.edu.in"; 
