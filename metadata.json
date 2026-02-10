@@ -1,0 +1,5 @@
+{
+  "name": "BFHL API Simulator",
+  "description": "A frontend simulation of the requested REST API endpoints for testing purposes, implementing the required logic client-side.",
+  "requestFramePermissions": []
+}
